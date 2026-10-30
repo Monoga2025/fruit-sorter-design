@@ -27,4 +27,15 @@ blender -b -P blender/crear_maquina.py -- --anim      # also render the mp4
 
 ## Status (honest)
 
-Concept stage. The axial feed speed of the fruit (50 mm/s) in the animation is an **illustrative assumption**: in the real design it must be measured in a SolidWorks Motion Study, which is not part of this repo. The written report is not included. UI and comments are in Spanish.
+🟡 Concept stage. The axial feed speed of the fruit (50 mm/s) in the animation is an **illustrative assumption**: in the real design it must be measured in a SolidWorks Motion Study, which is not part of this repo. The written report is not included. UI and comments are in Spanish.
+
+## Folder guide
+
+| Folder | What it holds |
+|---|---|
+| [blender/](blender/README.md) | Blender generator, scene, animation and stills |
+| [figures/](figures/README.md) | Report figures |
+
+---
+
+Built by Monoga · [github.com/Monoga2025](https://github.com/Monoga2025)
