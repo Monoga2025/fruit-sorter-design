@@ -1,0 +1,11 @@
+*.blend1
+*.blend2
+*.sldprt.bak
+~$*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+desktop.ini
