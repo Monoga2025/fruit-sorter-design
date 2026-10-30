@@ -39,3 +39,7 @@ blender -b -P blender/crear_maquina.py -- --anim      # also render the mp4
 ---
 
 Built by Monoga · [github.com/Monoga2025](https://github.com/Monoga2025)
+
+---
+
+> **Consolidated project.** This repository also replaces the former `drawing-project` (identical assets, archived).
